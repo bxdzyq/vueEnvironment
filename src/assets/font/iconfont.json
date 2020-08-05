@@ -1,0 +1,114 @@
+{
+  "id": "1950580",
+  "name": "环境监测云ping't",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2732218",
+      "name": "个人设置",
+      "font_class": "gerenshezhi",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "1621444",
+      "name": "场景默认",
+      "font_class": "changjingmoren",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3904602",
+      "name": "智能云＊",
+      "font_class": "zhinengyun",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "5233420",
+      "name": "云服务",
+      "font_class": "tubiao-",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12340724",
+      "name": "云图-彩色",
+      "font_class": "yuntu-caise",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "15984107",
+      "name": "公共云服务",
+      "font_class": "gonggongyunfuwu",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "882913",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2415112",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9662817",
+      "name": "云平台 (1)",
+      "font_class": "yunpingtai",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "9944934",
+      "name": "报警",
+      "font_class": "baojing",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "10094710",
+      "name": "环境",
+      "font_class": "huanjing",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "10708199",
+      "name": "日志",
+      "font_class": "rizhi",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "12568424",
+      "name": "大屏",
+      "font_class": "daping",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "13988588",
+      "name": "网格",
+      "font_class": "wangge",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "16009031",
+      "name": "网格",
+      "font_class": "wangge-copy",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    }
+  ]
+}
